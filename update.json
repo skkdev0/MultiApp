@@ -1,3 +1,3 @@
 {"version":"1.2.2"
  ,"url":"https://github.com/skkdev0/MultiApp/raw/refs/heads/main/app.apk"
- ,"message":"new update available.\n\n Long-clicking on item brings up a dialog that allows for update and deletion.\n can remove a program item you don't like by long-clicking on it.\nBug fixed."}
+ ,"message":"new update available.\n\n Long-clicking on item brings up a dialog that allows for update and deletion.\n can remove a program item you don't like by long-clicking on it.\n The problem when requesting storage permission has been completely resolved.\nBug fixed."}
