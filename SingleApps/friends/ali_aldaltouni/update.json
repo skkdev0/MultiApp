@@ -1,4 +1,4 @@
-{"version":"1.2.4"
+{"version":"1.2.3"
  ,"url":"https://github.com/skkdev0/MultiApp/raw/refs/heads/main/app.apk"
- ,"child":"";
+ ,"child":"https://api.github.com/repos/skkdev0/MultiApp/contents/SingleApps/WebAppCreator"
  ,"message":"new update available.\n\n bug fixed"}
