@@ -1,6 +1,5 @@
 {"version":"1.2.3"
  ,"active":"false"
  ,"url":"https://github.com/skkdev0/MultiApp/raw/refs/heads/main/app.apk"
- ,"child1":"https://api.github.com/repos/skkdev0/MultiApp/contents/programs/Text%20Encoder"
- ,"child":"https://api.github.com/repos/skkdev0/MultiApp/contents/SingleApps/WebAppCreator"
+ ,"child":"https://api.github.com/repos/skkdev0/MultiApp/contents/programs/Text%20Encoder"
  ,"message":"new update available.\n\n bug fixed"}
